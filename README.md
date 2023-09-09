@@ -2,6 +2,7 @@
 ## Hi! 🖐️ Welcome to my Github profile!
 - 📚 I'm studying Information System in SENAC;
 - 🚀 Focusing my studies on Java and MySQL database;
+- 🚀 Currently learning JAVA, HTML, CSS and JavaScript;
 - ⭐️Checkout my projects!
 
 
