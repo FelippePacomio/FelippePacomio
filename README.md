@@ -1,14 +1,14 @@
 
 ## Hi! 🖐️ Welcome to my Github profile!
 - 📚 I'm studying Information System in SENAC;
-- 🚀 Focusing my studies on Java and MySQL database;
-- 🚀 Currently learning JAVA, HTML, CSS and JavaScript;
+- 🚀 Focusing my studies on Kotlin, Java and Firebase;
+- 🚀 Currently learning Unit Tests;
 - ⭐️Checkout my projects!
 
 
 
 
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 
 
