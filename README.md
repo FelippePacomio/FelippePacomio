@@ -1,5 +1,5 @@
 
-## Hi! 🖐️ Welcome to my Github profile!
+## Welcome to my Github profile!
 - 📚 I'm studying Information System in SENAC;
 - 🚀 Focusing my studies on Kotlin, Java and Firebase;
 - 🚀 Currently learning Unit Tests;
